@@ -32,6 +32,6 @@ Some q60/q90-labelled regressors use squared-error objectives. Residual-based di
 
 Original employer code, data and credentials are excluded.
 
-## V3 executable reference demonstration
+## Executable reference demonstration
 
 Run `python demo/forecast.py` and `python -m unittest discover -s demo -v` from the repository root. [Source](demo/forecast.py) · [Generated results](demo/results.json). This newly authored synthetic reference is distinct from the original enterprise implementation; it does not establish historical production performance.
