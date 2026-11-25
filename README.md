@@ -1,7 +1,7 @@
 # Retail Demand Forecasting ML
 [![Demo checks](https://github.com/DesmondJiaLiangLoh/retail-demand-forecasting-ml/actions/workflows/demo.yml/badge.svg)](https://github.com/DesmondJiaLiangLoh/retail-demand-forecasting-ml/actions/workflows/demo.yml)
 
-**Historical engineering case study**.
+**Historical engineering case study**. Professional engineering portfolio
 
 ## Architecture
 
