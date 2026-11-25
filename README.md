@@ -29,7 +29,7 @@ Some q60/q90-labelled regressors use squared-error objectives. Residual-based di
 - [Showcase slides](docs/showcase.pptx)
 - [Interactive illustrative walkthrough](https://desmondjialiangloh.github.io/retail-demand-forecasting-ml.html)
 
-Original employer code, data and credentials are excluded.
+Original enterprise implementation excluded from this reference edition.
 
 ## Executable reference demonstration
 
