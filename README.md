@@ -17,8 +17,6 @@ This is a generalized reconstruction, not an internal deployment diagram.
 - **Evaluation:** Implemented grouped evaluation and out-of-fold metrics.
 - **Operational integration:** Developed forward forecasting and SQL output integration.
 
-Contribution statements are based on supplied code and résumé; confirm individual versus team ownership before publication.
-
 ## Implementation boundaries
 
 Some q60/q90-labelled regressors use squared-error objectives. Residual-based diagnostics are not verified SHAP. A strict temporal splitter exists but its use and leakage controls require validation. No independently verified forecast accuracy or business impact is claimed.
